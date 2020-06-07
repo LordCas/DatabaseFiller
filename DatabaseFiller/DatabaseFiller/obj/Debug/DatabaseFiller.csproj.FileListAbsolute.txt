@@ -1,0 +1,14 @@
+E:\afrondingsproject\DatabaseFiller\DatabaseFiller\bin\Debug\DatabaseFiller.exe.config
+E:\afrondingsproject\DatabaseFiller\DatabaseFiller\bin\Debug\DatabaseFiller.exe
+E:\afrondingsproject\DatabaseFiller\DatabaseFiller\bin\Debug\DatabaseFiller.pdb
+E:\afrondingsproject\DatabaseFiller\DatabaseFiller\obj\Debug\DatabaseFiller.csprojAssemblyReference.cache
+E:\afrondingsproject\DatabaseFiller\DatabaseFiller\obj\Debug\DatabaseFiller.csproj.CoreCompileInputs.cache
+E:\afrondingsproject\DatabaseFiller\DatabaseFiller\obj\Debug\DatabaseFiller.exe
+E:\afrondingsproject\DatabaseFiller\DatabaseFiller\obj\Debug\DatabaseFiller.pdb
+D:\projects\.NET projects\SchoolAfronding\DatabaseFiller\DatabaseFiller\bin\Debug\DatabaseFiller.exe.config
+D:\projects\.NET projects\SchoolAfronding\DatabaseFiller\DatabaseFiller\bin\Debug\DatabaseFiller.exe
+D:\projects\.NET projects\SchoolAfronding\DatabaseFiller\DatabaseFiller\bin\Debug\DatabaseFiller.pdb
+D:\projects\.NET projects\SchoolAfronding\DatabaseFiller\DatabaseFiller\obj\Debug\DatabaseFiller.csprojAssemblyReference.cache
+D:\projects\.NET projects\SchoolAfronding\DatabaseFiller\DatabaseFiller\obj\Debug\DatabaseFiller.csproj.CoreCompileInputs.cache
+D:\projects\.NET projects\SchoolAfronding\DatabaseFiller\DatabaseFiller\obj\Debug\DatabaseFiller.exe
+D:\projects\.NET projects\SchoolAfronding\DatabaseFiller\DatabaseFiller\obj\Debug\DatabaseFiller.pdb
