@@ -10,6 +10,7 @@ De opdracht zal met een aantal sprints uitgevoerd worden, waarbij tweewekelijks 
  
 
 Uitgangspunt is de Movielens 20M dataset (https://grouplens.org/datasets/movielens/)
+De 20M dataset is niet toegevoegd aan GitHub omdat dit groter is dan 1,5GB in totaal. 
 
 Deze set moet na opgeschoond te zijn geïmporteerd worden in een relationele database.
 
